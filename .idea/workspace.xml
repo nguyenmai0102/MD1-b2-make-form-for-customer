@@ -11,8 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -30,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dell/Desktop/MD1- BÀI TẬP/MD1-bai5/bai5 banCoVua.html",
+    "last_opened_file_path": "C:/Users/Dell/Desktop/MD1-bai5/index.html",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -49,7 +49,7 @@
       <workItem from="1661495584372" duration="13160000" />
       <workItem from="1661564605696" duration="891000" />
       <workItem from="1661570351839" duration="1289000" />
-      <workItem from="1661591461593" duration="8694000" />
+      <workItem from="1661591461593" duration="9316000" />
     </task>
     <servers />
   </component>
